@@ -2,7 +2,11 @@
 ---
 
 ##  `README.md`
+node js
 <img width="791" height="597" alt="Screenshot 2025-11-27 120141" src="https://github.com/user-attachments/assets/022cf8c5-8dac-42cd-8cc4-b3526f89cd50" />
+bun js
+<img width="760" height="589" alt="Screenshot 2025-11-27 120112" src="https://github.com/user-attachments/assets/ed9295b9-6d35-4fd2-abd2-a0743aaf2229" />
+
 
 
 ````markdown
@@ -144,4 +148,5 @@ Bun:
           │    (autocannon)            (autocannon)      │
           └───────────────────────────────────────────────┘
 ````
+
 
